@@ -1,0 +1,9 @@
+{
+    "firstName":"John",
+    "lastName":"Smith",
+    "countries":[
+    "USA",
+    "Vietname",
+    "Canada"
+    ]
+}

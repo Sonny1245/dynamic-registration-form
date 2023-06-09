@@ -1,0 +1,10 @@
+{
+    "employee": [{
+            "id": 2,
+            "firstName": "John",
+            "lastName": "Smith",
+            "DOB": "02-12-2022",
+            "email": "sonny.nguyen@gmail.com" 
+    }]
+
+}

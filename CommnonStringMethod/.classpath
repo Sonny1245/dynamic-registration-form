@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/son/Downloads/commons-lang3-3.12.0 2/commons-lang3-3.12.0.jar"/>
+	<classpathentry kind="lib" path="/Users/son/eclipse/java-2020-12/foodlist/WebContent/WEB-INF/lib/javax.servlet-3.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/JRE [15.0.1]">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,19 @@
+{
+
+    "firstName": "Sonny",
+    "lastName": "Nguyen",
+    "address": [
+        {
+            "street": "Rancho Codorva",
+            "city" : "Sacramento",
+            "state": "CA"
+        },
+        
+        {
+            "street": "J Street",
+            "city": "Elk Grove",
+            "state": "SJ"
+        } 
+    ]
+
+}
